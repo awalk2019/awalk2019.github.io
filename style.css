@@ -1,6 +1,7 @@
 /* Styles go here */
 
 header {
+  padding: 25px;
   size: 20px;
   font-style: oblique;
 }
