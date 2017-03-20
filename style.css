@@ -1,0 +1,20 @@
+/* Styles go here */
+
+header {
+  size: 20px;
+  font-style: oblique;
+}
+
+article {
+  size: 12px;
+}
+
+aside {
+  float: right;
+}
+head {
+  font-style:oblique;
+}
+footer {
+  font-style: italic;
+}
