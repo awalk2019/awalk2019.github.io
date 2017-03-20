@@ -7,6 +7,10 @@ header {
 
 article {
   size: 12px;
+  width: 700px;
+border: 1px solid black;
+padding: 25px;
+margin: 25px;
 }
 
 aside {
